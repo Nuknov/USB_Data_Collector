@@ -42,12 +42,13 @@ It is recommended to **modify the script** to match your needs.
 
 ## ⚙️ Setup
 1. **Clone** this repository or download it as a ZIP:
-   ```bash
-   git clone https://github.com/Nuknov/USB_Data_Collector.git
+```bash
+git clone https://github.com/Nuknov/USB_Data_Collector.git
 
 ---
 
 ## Example Batch Command
 ```bat
 %backupcmd% "%USERPROFILE%\Pictures" "%dest%\Pictures"
+
 

@@ -51,6 +51,15 @@ git clone https://github.com/Nuknov/USB_Data_Collector.git
 ```bat
 %backupcmd% "%USERPROFILE%\Pictures" "%dest%\Pictures"
 ```
+---
 
+## Author
 
+- **Ahmed Naveed (Nuknov)**  
+- https://github.com/Nuknov
 
+---
+
+## License
+
+This project is licensed under the [MIT License](LICENSE).

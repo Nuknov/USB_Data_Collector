@@ -50,6 +50,7 @@ git clone https://github.com/Nuknov/USB_Data_Collector.git
 ## Example Batch Command
 ```bat
 %backupcmd% "%USERPROFILE%\Pictures" "%dest%\Pictures"
+```
 
 
 

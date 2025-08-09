@@ -7,11 +7,11 @@ Perfect for **authorized backups, system administration tasks, and red team lab 
 
 ## ⚠️ Disclaimer
 
-This project is provided **for educational and authorized testing purposes only**.  
-You must have **explicit permission** from the system owner before using this tool.  
-The author is **not responsible** for any misuse.  
-Possibility of detection is around **50/50**. If the target folders contain large amounts of data (in gigabytes), the process can take a while.  
-It is recommended to **modify the script** to match your needs.
+>This project is provided **for educational and authorized testing purposes only**.  
+>You must have **explicit permission** from the system owner before using this tool.  
+>The author is **not responsible** for any misuse.  
+>Possibility of detection is around **50/50**. If the target folders contain large amounts of data (in gigabytes), the process can take a while.  
+>It is recommended to **modify the script** to match your needs.
 
 ---
 

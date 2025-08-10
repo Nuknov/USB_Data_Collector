@@ -44,6 +44,8 @@ Perfect for **authorized backups, system administration tasks, and red team lab 
 1. **Clone** this repository or download it as a ZIP:
 ```bash
 git clone https://github.com/Nuknov/USB_Data_Collector.git
+cd USB_Data_Collector
+launch.bat
 ```
 ---
 
@@ -63,3 +65,4 @@ git clone https://github.com/Nuknov/USB_Data_Collector.git
 ## License
 
 This project is licensed under the [MIT License](LICENSE).
+

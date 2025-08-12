@@ -12,7 +12,7 @@ Perfect for **authorized backups, system administration tasks, and red team lab 
 >The author is **not responsible** for any misuse.  
 >Possibility of detection is around **50/50**. If the target folders contain large amounts of data (in gigabytes), the process can take a while.  
 >It is recommended to **modify the script** to match your needs.
-
+**Kaspersky can detect this now.**
 ---
 
 ## Features

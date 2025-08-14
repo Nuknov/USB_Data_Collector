@@ -59,7 +59,7 @@ launch.bat
 
 ## Author
 
-- **Ahmed Naveed (Nuknov)**  
+- **Nuknov**  
 - https://github.com/Nuknov
 - https://twitter.com/Nuknov
 
